@@ -3,14 +3,13 @@
 Cloud & Systems Engineer | 2+ years production infrastructure | AWS, Linux, Docker, CI/CD
 Open-source maintainer (97k+ users) | Building scalable backends & automated infra
 
-<!-- ⚠️ REPLACE BADGES WITH YOUR ACTUAL REPO NAMES/URLS -->
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go)
-![CI/CD](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=google-cloud)
+![Linux](https://img.shields.io/badge/Linux-232F3E?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-232F3E?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-232F3E?style=for-the-badge&logo=kubernetes)
+![Python](https://img.shields.io/badge/Python-232F3E?style=for-the-badge&logo=python)
+![Go](https://img.shields.io/badge/Go-232F3E?style=for-the-badge&logo=go)
+![CI/CD](https://img.shields.io/badge/GitHub_Actions-232F3E?style=for-the-badge&logo=github-actions)
 
 ---
 
