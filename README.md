@@ -1,7 +1,7 @@
 # Justin Donofrio
 
 Cloud & Systems Engineer | 2+ years production infrastructure | AWS, Linux, Docker, CI/CD
-Open-source maintainer (70k+ users) | Building scalable backends & automated infra
+Open-source maintainer (97k+ users) | Building scalable backends & automated infra
 
 <!-- ⚠️ REPLACE BADGES WITH YOUR ACTUAL REPO NAMES/URLS -->
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
@@ -18,7 +18,7 @@ Open-source maintainer (70k+ users) | Building scalable backends & automated inf
 
 | Project | Stack | Impact |
 |---------|-------|--------|
-| **[OnTheSpot](https://github.com/justin025/OnTheSpot)** | Python, Flask, Qt, GitHub Actions | 70k+ downloads • 12k DAU • Automated CI/CD cut release cycles from 3 days → 4 hrs |
+| **[OnTheSpot](https://github.com/justin025/OnTheSpot)** | Python, Flask, Qt, GitHub Actions | 97k+ downloads • 12k DAU • Automated CI/CD cut release cycles from 3 days → 4 hrs |
 | **[GoSocial Graph](https://github.com/justin025/GoSocial-Graph)** | Go, Docker, gRPC/REST, K8s | Concurrent social backend • Horizontal scaling • Docker Compose + K8s manifests ready |
 | **[Home Lab & Infra](https://github.com/justin025/HomeLab)** | Gentoo, Docker, K8s, Portainer | 20+ services from source • Custom email stack • Automated backups & network segmentation |
 | **[IPTV App](https://github.com/justin025/IPTV-Client)** | Flutter, Dart, Go | Forked & customized • EPG integration • Streaming reliability layer • Co-developing for launch |
