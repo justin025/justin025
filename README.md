@@ -17,19 +17,18 @@ Open-source maintainer (97k+ users) | Building scalable backends & automated inf
 
 | Project | Stack | Impact |
 |---------|-------|--------|
-| **[OnTheSpot](https://github.com/justin025/OnTheSpot)** | Python, Flask, Qt, GitHub Actions | 97k+ downloads • 12k DAU • Automated CI/CD cut release cycles from 2 hrs → 8 mins |
-| **[HireKey](https://github.com/justin025/hirekey)** | Go, MongoDB, Docker, Vanilla JS | Full-stack social platform — feed, chat, events, marketplace, recruiting • Cookie-based auth + 2FA • PWA support |
-| **[Home Lab & Infra](https://github.com/justin025/HomeLab)** | Gentoo, Docker, K8s, Portainer | 20+ services from source • Custom email stack • Automated backups & network segmentation |
-| **[IPTV App](https://github.com/justin025/IPTV-Client)** | Flutter, Dart, Go | Forked & customized • EPG integration • Streaming reliability layer • Co-developing for launch |
+| **[OnTheSpot](https://github.com/justin025/OnTheSpot)** | Python, Flask, Qt, GitHub Actions | 97k+ downloads • 12k DAU • CI/CD cut release cycles from 2 hrs → 8 mins |
+| **[HireKey](https://github.com/justin025/hirekey)** | Go, MongoDB, Docker, Vanilla JS | Backend routing + API design • Cookie auth + 2FA • PWA support • Scaled for concurrent user sessions |
+| **[Gentoo Overlay & Packaging](https://github.com/justin025/gentoo-overlay)** | Gentoo, ebuilds, Portainer, K8s | Custom packages + kernel/service patches • ~13 packages upstreamed to guru • Automated patching & service orchestration |
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Cloud & Infra:** AWS (EC2, S3, IAM, RDS), Docker, Kubernetes, Terraform (basic)  
-**DevOps & Tools:** GitHub Actions, Git, REST APIs, CI/CD, Automated Backups, Patch Mgmt, Monitoring  
+**DevOps & Automation:** GitHub Actions, CI/CD, Git, Patch Management, Backup/Monitoring, Incident Response  
 **Languages:** Python, Bash, Go, PHP, SQL (MariaDB/MySQL)  
-**Platforms:** Portainer, OpenDKIM/Dovecot/Postfix, Qt/Flask, Office 365/Telus APIs  
+**Systems & Tools:** Gentoo/Ubuntu/RHEL, Portainer, OpenDKIM/Dovecot/Postfix, Qt/Flask, Telus/Office365 APIs  
 
 ---
 
@@ -40,4 +39,4 @@ Open-source maintainer (97k+ users) | Building scalable backends & automated inf
 📄 Resume: justin025.github.io/Justin_Donofrio_Resume.pdf  
 🌐 Site: justin025.github.io  
 
-*I'm currently targeting Junior/Mid DevOps, Cloud Engineering, and Systems Administration roles. Open to remote, hybrid, or Toronto-based opportunities.*
+*Currently interviewing for Junior/Mid DevOps, Cloud Engineering, and Systems Administration roles. Remote, hybrid, or Toronto-based.*
