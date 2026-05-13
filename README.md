@@ -17,8 +17,8 @@ Open-source maintainer (97k+ users) | Building scalable backends & automated inf
 
 | Project | Stack | Impact |
 |---------|-------|--------|
-| **[OnTheSpot](https://github.com/justin025/OnTheSpot)** | Python, Flask, Qt, GitHub Actions | 97k+ downloads • 12k DAU • Automated CI/CD cut release cycles from 2 hrs → 10 mins |
-| **[GoSocial Graph](https://github.com/justin025/GoSocial-Graph)** | Go, Docker, gRPC/REST, K8s | Concurrent social backend • Horizontal scaling • Docker Compose + K8s manifests ready |
+| **[OnTheSpot](https://github.com/justin025/OnTheSpot)** | Python, Flask, Qt, GitHub Actions | 97k+ downloads • 12k DAU • Automated CI/CD cut release cycles from 2 hrs → 8 mins |
+| **[HireKey](https://github.com/justin025/hirekey)** | Go, MongoDB, Docker, Vanilla JS | Full-stack social platform — feed, chat, events, marketplace, recruiting • Cookie-based auth + 2FA • PWA support |
 | **[Home Lab & Infra](https://github.com/justin025/HomeLab)** | Gentoo, Docker, K8s, Portainer | 20+ services from source • Custom email stack • Automated backups & network segmentation |
 | **[IPTV App](https://github.com/justin025/IPTV-Client)** | Flutter, Dart, Go | Forked & customized • EPG integration • Streaming reliability layer • Co-developing for launch |
 
