@@ -1,4 +1,4 @@
-# Justin Donofrio
+# Justin D.
 
 Cloud & Systems Engineer | 2+ years production infrastructure | AWS, Linux, Docker, CI/CD
 Open-source maintainer (97k+ users) | Building scalable backends & automated infra
