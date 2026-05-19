@@ -35,8 +35,8 @@ Open-source maintainer (97k+ users) | Building scalable backends & automated inf
 ## 📬 Let's Connect
 
 📧 Email: Justin026@protonmail.com  
-🔗 LinkedIn: linkedin.com/in/justin-donofrio  
-📄 Resume: justin025.github.io/Justin_Donofrio_Resume.pdf  
+🔗 LinkedIn: www.linkedin.com/in/justin-donofr1o 
+📄 Resume: Available on linkedin *(sorry)*
 🌐 Site: justin025.github.io  
 
 *Currently interviewing for Junior/Mid DevOps, Cloud Engineering, and Systems Administration roles. Remote, hybrid, or Toronto-based.*
