@@ -19,7 +19,7 @@ Open-source maintainer (97k+ users) | Building scalable backends & automated inf
 |---------|-------|--------|
 | **[OnTheSpot](https://github.com/justin025/OnTheSpot)** | Python, Flask, Qt, GitHub Actions | 97k+ downloads • 12k DAU • CI/CD cut release cycles from 2 hrs → 8 mins |
 | **[HireKey](https://github.com/justin025/hirekey)** | Go, MongoDB, Docker, Vanilla JS | Backend routing + API design • Cookie auth + 2FA • PWA support • Scaled for concurrent user sessions |
-| **[Gentoo Overlay & Packaging](https://github.com/justin025/gentoo-overlay)** | Gentoo, ebuilds, Portainer, K8s | Custom packages + kernel/service patches • ~13 packages upstreamed to guru • Automated patching & service orchestration |
+| **[Gentoo Overlay & Packaging](https://github.com/justin025/gentoo-overlay)** | Gentoo, ebuilds, Portainer, K8s | Custom packages + service patches • ~13 packages upstreamed to guru • Automated patching & service orchestration |
 
 ---
 
@@ -34,9 +34,9 @@ Open-source maintainer (97k+ users) | Building scalable backends & automated inf
 
 ## 📬 Let's Connect
 
-📧 Email: Justin026@protonmail.com  
-🔗 LinkedIn: www.linkedin.com/in/justin-donofr1o 
-📄 Resume: Available on linkedin *(sorry)*
-🌐 Site: justin025.github.io  
+- 📧 Email: Justin026@protonmail.com  
+- 🔗 LinkedIn: www.linkedin.com/in/justin-donofr1o 
+- 📄 Resume: Available on linkedin *(sorry)*
+- 🌐 Site: justin025.github.io  
 
 *Currently interviewing for Junior/Mid DevOps, Cloud Engineering, and Systems Administration roles. Remote, hybrid, or Toronto-based.*
